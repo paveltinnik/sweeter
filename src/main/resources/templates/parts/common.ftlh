@@ -25,6 +25,7 @@
             }
         </style>
     </head>
+
     <body>
     <#include "navbar.ftlh">
     <div class="container mt-5">
